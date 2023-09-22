@@ -1,1 +1,1 @@
-Copy the files here to root
+Copy the Directories here to root
