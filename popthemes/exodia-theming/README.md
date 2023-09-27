@@ -1,1 +1,0 @@
-Exodia OS Themes and Cursors.

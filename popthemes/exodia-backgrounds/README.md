@@ -1,2 +1,0 @@
-# exodia-backgrounds
-
